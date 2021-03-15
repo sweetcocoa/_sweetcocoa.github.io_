@@ -9,12 +9,19 @@ title: CV
 
 #### 최종호 (JONGHO CHOI)
 
-Master's Student @ Seoul National University (2020 ~ )
+Master's Student @ [Music and Audio Research Group(MARG)](http://marg.snu.ac.kr/) (2020 ~ )
 
 :email: sweetcocoa@snu.ac.kr
 
 ![GitHub-Mark-32px](cv.assets/GitHub-Mark-32px.png) [github.com/sweetcocoa](https://github.com/sweetcocoa)
 
+
+## Research Interests ##
+
+- Deep Learning
+- Music Recommendation
+- Music Representation
+- Music Transcription
 
 
 ## Education ##
@@ -27,7 +34,7 @@ Master's Student @ Seoul National University (2020 ~ )
  Mar 2013 - Aug 2020
 
 - 서울대학교 전기정보공학부 학사과정, 연합전공 계산과학
-- **B.S. Student** Electrical and Computer Engineering, Seoul National University, Seoul, Korea.
+- **BS** in Electrical and Computer Engineering, Seoul National University, Seoul, Korea.
 
 Mar 2010 - Feb 2013
 
@@ -41,7 +48,6 @@ Mar 2010 - Feb 2013
 June 2020 - July 2020
 
 - 카카오 추천팀 인턴
-
 - Intern Researcher at Kakao Recoteam
 
 Sep 2017 - Dec 2019
@@ -90,6 +96,7 @@ June 2015 - Aug 2015
 - 딥러닝을 이용한 얼굴에 따른 안경/선글라스 추천 연구 @ ESTsoft.
 - 멀티캐스트 네트워크를 이용한 해외 스프레드 거래 데이터 피딩 시스템 개발 @ GemizipSoft.
 
+- 
 
 
 - GoG(Glasses on Glasses) : Eyeglasses Removal from the video. @ ESTsoft.
